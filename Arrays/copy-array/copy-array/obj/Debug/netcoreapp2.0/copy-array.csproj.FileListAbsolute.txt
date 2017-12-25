@@ -1,0 +1,11 @@
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\bin\Debug\netcoreapp2.0\copy-array.deps.json
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\bin\Debug\netcoreapp2.0\copy-array.runtimeconfig.json
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\bin\Debug\netcoreapp2.0\copy-array.runtimeconfig.dev.json
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\bin\Debug\netcoreapp2.0\copy-array.dll
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\bin\Debug\netcoreapp2.0\copy-array.pdb
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\obj\Debug\netcoreapp2.0\copy-array.csprojResolveAssemblyReference.cache
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\obj\Debug\netcoreapp2.0\copy-array.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\obj\Debug\netcoreapp2.0\copy-array.AssemblyInfoInputs.cache
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\obj\Debug\netcoreapp2.0\copy-array.AssemblyInfo.cs
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\obj\Debug\netcoreapp2.0\copy-array.dll
+C:\Users\saiad\source\repos\C-\Arrays\copy-array\copy-array\obj\Debug\netcoreapp2.0\copy-array.pdb

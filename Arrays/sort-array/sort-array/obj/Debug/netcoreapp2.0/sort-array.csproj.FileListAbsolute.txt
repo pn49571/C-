@@ -1,0 +1,11 @@
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\bin\Debug\netcoreapp2.0\sort-array.deps.json
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\bin\Debug\netcoreapp2.0\sort-array.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\bin\Debug\netcoreapp2.0\sort-array.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\bin\Debug\netcoreapp2.0\sort-array.dll
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\bin\Debug\netcoreapp2.0\sort-array.pdb
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\obj\Debug\netcoreapp2.0\sort-array.csprojResolveAssemblyReference.cache
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\obj\Debug\netcoreapp2.0\sort-array.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\obj\Debug\netcoreapp2.0\sort-array.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\obj\Debug\netcoreapp2.0\sort-array.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\obj\Debug\netcoreapp2.0\sort-array.dll
+C:\Users\saiad\Source\Repos\C-\sort-array\sort-array\obj\Debug\netcoreapp2.0\sort-array.pdb

@@ -1,0 +1,11 @@
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\bin\Debug\netcoreapp2.0\insert-sorted-array.deps.json
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\bin\Debug\netcoreapp2.0\insert-sorted-array.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\bin\Debug\netcoreapp2.0\insert-sorted-array.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\bin\Debug\netcoreapp2.0\insert-sorted-array.dll
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\bin\Debug\netcoreapp2.0\insert-sorted-array.pdb
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\obj\Debug\netcoreapp2.0\insert-sorted-array.csprojResolveAssemblyReference.cache
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\obj\Debug\netcoreapp2.0\insert-sorted-array.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\obj\Debug\netcoreapp2.0\insert-sorted-array.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\obj\Debug\netcoreapp2.0\insert-sorted-array.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\obj\Debug\netcoreapp2.0\insert-sorted-array.dll
+C:\Users\saiad\Source\Repos\C-\insert-sorted-array\insert-sorted-array\obj\Debug\netcoreapp2.0\insert-sorted-array.pdb

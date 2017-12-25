@@ -1,0 +1,11 @@
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\bin\Debug\netcoreapp2.0\delete-element-array.deps.json
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\bin\Debug\netcoreapp2.0\delete-element-array.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\bin\Debug\netcoreapp2.0\delete-element-array.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\bin\Debug\netcoreapp2.0\delete-element-array.dll
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\bin\Debug\netcoreapp2.0\delete-element-array.pdb
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\obj\Debug\netcoreapp2.0\delete-element-array.csprojResolveAssemblyReference.cache
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\obj\Debug\netcoreapp2.0\delete-element-array.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\obj\Debug\netcoreapp2.0\delete-element-array.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\obj\Debug\netcoreapp2.0\delete-element-array.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\obj\Debug\netcoreapp2.0\delete-element-array.dll
+C:\Users\saiad\Source\Repos\C-\delete-element-array\delete-element-array\obj\Debug\netcoreapp2.0\delete-element-array.pdb

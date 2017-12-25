@@ -1,0 +1,11 @@
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\bin\Debug\netcoreapp2.0\count-duplicates.deps.json
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\bin\Debug\netcoreapp2.0\count-duplicates.runtimeconfig.json
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\bin\Debug\netcoreapp2.0\count-duplicates.runtimeconfig.dev.json
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\bin\Debug\netcoreapp2.0\count-duplicates.dll
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\bin\Debug\netcoreapp2.0\count-duplicates.pdb
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\obj\Debug\netcoreapp2.0\count-duplicates.csprojResolveAssemblyReference.cache
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\obj\Debug\netcoreapp2.0\count-duplicates.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\obj\Debug\netcoreapp2.0\count-duplicates.AssemblyInfoInputs.cache
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\obj\Debug\netcoreapp2.0\count-duplicates.AssemblyInfo.cs
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\obj\Debug\netcoreapp2.0\count-duplicates.dll
+C:\Users\saiad\source\repos\C-\Arrays\count-duplicates\count-duplicates\obj\Debug\netcoreapp2.0\count-duplicates.pdb

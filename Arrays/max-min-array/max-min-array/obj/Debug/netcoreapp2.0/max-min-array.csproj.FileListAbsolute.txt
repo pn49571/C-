@@ -1,0 +1,11 @@
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\bin\Debug\netcoreapp2.0\max-min-array.deps.json
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\bin\Debug\netcoreapp2.0\max-min-array.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\bin\Debug\netcoreapp2.0\max-min-array.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\bin\Debug\netcoreapp2.0\max-min-array.dll
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\bin\Debug\netcoreapp2.0\max-min-array.pdb
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\obj\Debug\netcoreapp2.0\max-min-array.csprojResolveAssemblyReference.cache
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\obj\Debug\netcoreapp2.0\max-min-array.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\obj\Debug\netcoreapp2.0\max-min-array.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\obj\Debug\netcoreapp2.0\max-min-array.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\obj\Debug\netcoreapp2.0\max-min-array.dll
+C:\Users\saiad\Source\Repos\C-\max-min-array\max-min-array\obj\Debug\netcoreapp2.0\max-min-array.pdb

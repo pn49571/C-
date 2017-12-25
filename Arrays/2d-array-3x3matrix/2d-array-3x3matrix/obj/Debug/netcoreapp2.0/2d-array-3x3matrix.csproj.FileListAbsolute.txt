@@ -1,0 +1,10 @@
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\obj\Debug\netcoreapp2.0\2d-array-3x3matrix.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\obj\Debug\netcoreapp2.0\2d-array-3x3matrix.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\obj\Debug\netcoreapp2.0\2d-array-3x3matrix.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\bin\Debug\netcoreapp2.0\2d-array-3x3matrix.deps.json
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\bin\Debug\netcoreapp2.0\2d-array-3x3matrix.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\bin\Debug\netcoreapp2.0\2d-array-3x3matrix.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\bin\Debug\netcoreapp2.0\2d-array-3x3matrix.dll
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\bin\Debug\netcoreapp2.0\2d-array-3x3matrix.pdb
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\obj\Debug\netcoreapp2.0\2d-array-3x3matrix.dll
+C:\Users\saiad\Source\Repos\C-\2d-array-3x3matrix\2d-array-3x3matrix\obj\Debug\netcoreapp2.0\2d-array-3x3matrix.pdb

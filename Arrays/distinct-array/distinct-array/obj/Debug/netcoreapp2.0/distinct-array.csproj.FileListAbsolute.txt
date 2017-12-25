@@ -1,0 +1,11 @@
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\bin\Debug\netcoreapp2.0\distinct-array.deps.json
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\bin\Debug\netcoreapp2.0\distinct-array.runtimeconfig.json
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\bin\Debug\netcoreapp2.0\distinct-array.runtimeconfig.dev.json
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\bin\Debug\netcoreapp2.0\distinct-array.dll
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\bin\Debug\netcoreapp2.0\distinct-array.pdb
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\obj\Debug\netcoreapp2.0\distinct-array.csprojResolveAssemblyReference.cache
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\obj\Debug\netcoreapp2.0\distinct-array.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\obj\Debug\netcoreapp2.0\distinct-array.AssemblyInfoInputs.cache
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\obj\Debug\netcoreapp2.0\distinct-array.AssemblyInfo.cs
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\obj\Debug\netcoreapp2.0\distinct-array.dll
+C:\Users\saiad\source\repos\C-\Arrays\distinct-array\distinct-array\obj\Debug\netcoreapp2.0\distinct-array.pdb

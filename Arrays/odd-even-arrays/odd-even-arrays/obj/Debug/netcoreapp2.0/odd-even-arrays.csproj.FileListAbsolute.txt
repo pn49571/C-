@@ -1,0 +1,11 @@
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\bin\Debug\netcoreapp2.0\odd-even-arrays.deps.json
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\bin\Debug\netcoreapp2.0\odd-even-arrays.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\bin\Debug\netcoreapp2.0\odd-even-arrays.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\bin\Debug\netcoreapp2.0\odd-even-arrays.dll
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\bin\Debug\netcoreapp2.0\odd-even-arrays.pdb
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\obj\Debug\netcoreapp2.0\odd-even-arrays.csprojResolveAssemblyReference.cache
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\obj\Debug\netcoreapp2.0\odd-even-arrays.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\obj\Debug\netcoreapp2.0\odd-even-arrays.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\obj\Debug\netcoreapp2.0\odd-even-arrays.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\obj\Debug\netcoreapp2.0\odd-even-arrays.dll
+C:\Users\saiad\Source\Repos\C-\odd-even-arrays\odd-even-arrays\obj\Debug\netcoreapp2.0\odd-even-arrays.pdb

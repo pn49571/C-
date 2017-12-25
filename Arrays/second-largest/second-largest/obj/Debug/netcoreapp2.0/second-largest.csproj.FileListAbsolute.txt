@@ -1,0 +1,11 @@
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\bin\Debug\netcoreapp2.0\second-largest.deps.json
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\bin\Debug\netcoreapp2.0\second-largest.runtimeconfig.json
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\bin\Debug\netcoreapp2.0\second-largest.runtimeconfig.dev.json
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\bin\Debug\netcoreapp2.0\second-largest.dll
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\bin\Debug\netcoreapp2.0\second-largest.pdb
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\obj\Debug\netcoreapp2.0\second-largest.csprojResolveAssemblyReference.cache
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\obj\Debug\netcoreapp2.0\second-largest.csproj.CoreCompileInputs.cache
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\obj\Debug\netcoreapp2.0\second-largest.AssemblyInfoInputs.cache
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\obj\Debug\netcoreapp2.0\second-largest.AssemblyInfo.cs
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\obj\Debug\netcoreapp2.0\second-largest.dll
+C:\Users\saiad\Source\Repos\C-\second-largest\second-largest\obj\Debug\netcoreapp2.0\second-largest.pdb
